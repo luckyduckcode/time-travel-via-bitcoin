@@ -1,0 +1,32 @@
+creating time travel using bitcoin default wallet. 
+
+who to work on this project:
+https://github.com/SomberNight
+
+https://github.com/elonmusk
+
+https://github.com/torvalds
+
+https://github.com/luckyduckcode
+
+
+
+what this project includes
+-aes encryption and decryption
+
+-default wallet addresses
+
+
+
+desired outcome truth and history, time travel. all we have to do do is de-crypt the wallet address and it should work out.
+
+deadline may 9th. 
+
+possible problems... not enough computer for time travel.
+
+
+
+
+
+
+
