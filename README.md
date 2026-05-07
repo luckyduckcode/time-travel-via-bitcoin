@@ -9,6 +9,11 @@ An exploratory research/idea repo titled “Time Travel via Bitcoin.” This rep
 ## Content
 - Project notes and sketches (add your own files).
 
+## Illustration
+The repository includes an illustrative image related to the original project notes.
+
+![Time Travel Illustration](assets/creating%20time%20travel%20using%20default%20bitcoin%20wallet%20account.png)
+
 ## Contributing
 Please read `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` before contributing. Keep all experiments lawful and use only test data or data you own.
 
