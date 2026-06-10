@@ -11,14 +11,21 @@ https://github.com/luckyduckcode
 
 https://github.com/claudioolmedo
 
+
+
 what this project includes
+-one dollar board (for essential clock) website
+website: 
+https://onedollarboard.com/#hardware
+
+
 -aes encryption and decryption
 
 -default wallet addresses
 
 
 
-desired outcome truth and history, time travel. all we have to do do is de-crypt the wallet address and it should work out.
+desired outcome truth and history, time travel. all we have to do is refrence the blockchain and CDT and CST and reverse standard cause and effect in physics and it should work out.
 
 deadline may 9th. 
 
