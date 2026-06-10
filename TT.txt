@@ -1,4 +1,4 @@
-creating time travel using bitcoin default wallet. 
+creating time travel using bitcoin wallet and time, imagination and a little "old fashion" hard work. 
 
 who to work on this project:
 https://github.com/SomberNight
