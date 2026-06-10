@@ -13,11 +13,11 @@ https://github.com/claudioolmedo
 
 
 
-what this project includes
+what this project includes:
+
 -one dollar board (for essential clock) website
 website: 
 https://onedollarboard.com/#hardware
-
 
 -aes encryption and decryption
 
